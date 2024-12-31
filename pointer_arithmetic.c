@@ -28,6 +28,7 @@ int main(){
     printf("%d\n",*arr);//1
     printf("%u\n",arr);//6422264
     arr+=4;
+    
     printf("Value: %d\n",*arr);//5
     printf("Address: %u\n",arr);//6422280
 
